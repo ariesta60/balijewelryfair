@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Import Demo Content were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = https://balijewelryfair.com
+Data file = /home/balijewe/public_html/wp-content/plugins/event-demo-importer/inc/ocdi/event.xml
+Widget file = /home/balijewe/public_html/wp-content/plugins/event-demo-importer/inc/ocdi/event-widgets.wie
+Customizer file = /home/balijewe/public_html/wp-content/plugins/event-demo-importer/inc/ocdi/event-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+event_main_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Text - About Us - Imported to Inactive
+rpwe_widget - Recent Posts - Site does not support widget
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+meta - No Title - Site does not support widget
+
+event_header_info : Sidebar does not exist in theme (moving widget to Inactive)
+
+event_contact_widgets - No Title - Site does not support widget
+
+event_contact_page_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - About Us - Imported to Inactive
+event_contact_widgets - Contact Us - Site does not support widget
+
+event_form_for_contact_page : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Widget already exists
+
+event_woocommerce_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+
+event_footer_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - Event - Imported to Inactive
+
+event_footer_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Categories - Category - Widget already exists
+
+event_footer_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+rpwe_widget - Recent Posts - Site does not support widget
+
+event_footer_4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+event_contact_widgets - Contact Us - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
