@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Import Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://balijewelry.io
+Data file = /Users/apple/Documents/Project/balijewelryfair/wp-content/plugins/event-demo-importer/inc/ocdi/event.xml
+Widget file = /Users/apple/Documents/Project/balijewelryfair/wp-content/plugins/event-demo-importer/inc/ocdi/event-widgets.wie
+Customizer file = /Users/apple/Documents/Project/balijewelryfair/wp-content/plugins/event-demo-importer/inc/ocdi/event-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Text - About Us - Imported
+rpwe_widget - Recent Posts - Site does not support widget
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Display Contact Info at Header  : 
+
+TF: Contact Us - No Title - Imported
+
+Contact Page Sidebar : 
+
+Text - About Us - Imported
+TF: Contact Us - Contact Us - Imported
+
+Shortcode For Contact Page : 
+
+Text - No Title - Imported
+
+WooCommerce Sidebar : 
+
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+
+Footer Column 1 : 
+
+Text - Event - Widget already exists
+
+Footer Column 2 : 
+
+Categories - Category - Imported
+
+Footer Column 3 : 
+
+rpwe_widget - Recent Posts - Site does not support widget
+
+Footer Column 4 : 
+
+TF: Contact Us - Contact Us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

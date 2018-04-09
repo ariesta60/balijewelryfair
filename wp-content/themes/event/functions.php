@@ -277,3 +277,10 @@ require get_template_directory() . '/inc/front-page/our-speaker.php';
 require get_template_directory() . '/inc/front-page/program-schedule.php';
 require get_template_directory() . '/inc/front-page/our-gallery.php';
 require get_template_directory() . '/inc/front-page/our-testimonial.php';
+
+show_admin_bar(false);
+
+remove_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart');
+
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_add_to_cart');
+
